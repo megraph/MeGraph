@@ -23,7 +23,6 @@ Le groupe:
 
 #### La structure de graphes
 
-
 ```C
 typedef struct graph
 {
@@ -35,7 +34,7 @@ typedef struct graph
 
 #### Le cahier des charges
 
-Notre [Cahier des charges](.https://fr.overleaf.com/gallery). pour le projet est disponible sur overleaf
+Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le projet est disponible sur overleaf
 
 ##### Header 5
 

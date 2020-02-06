@@ -1,7 +1,5 @@
 [//]: <> (Text can be **bold**, _italic_, or ~~strikethrough~~.)
 
-[//]: <> ([Link to another page](./another-page.html).)
-
 [//]: <> (There should be whitespace between paragraphs.)
 
 [//]: <> (There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.)
@@ -9,34 +7,35 @@
 # MeGraph
 Logiciel de traitement de graphes
 
-## Header 2
+## Le projet
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Qui sommes nous ?
+Etudiants à l'Epita, nous nous sommes fixés l'objectif de réaliser ce logiciel pour notre quatrième semestre.
+Le groupe:
+*   Mohamed DIALLO
+*   Amayun HOUERY
+*   Anthony JABRE
+*   Alexandre JAMES
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+#### La structure de graphes
+
+
+```C
+typedef struct graph
+{
+    uint32_t    order;
+    int         directed;
+    List**      adjlists;
+} Graph;
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Le cahier des charges
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Notre [Cahier des charges](.https://fr.overleaf.com/gallery). pour le projet est disponible sur overleaf
 
 ##### Header 5
 

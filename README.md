@@ -35,11 +35,13 @@ Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le p
 
 # Avancement
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+|              | Complétion|
+|:-------------|:------------------|
+|Interface utilisateur | 30% |
+|Documentation | 0% |
+|Site Internet | 50% |
+|Algorithmes sur les graphes |33%|
+|Affichage des Graphes  |10%|
+|Structure et Sauvegarde des Donées |50%|
 
 * * *

@@ -9,9 +9,8 @@ Logiciel de traitement de graphes
 
 ## Le projet
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Il s'agit d'un logiciel permettant à un utilisateur d'interagir avec n'importe quel graphe. Aussi bien les graphes orientés que les graphes non-orientés.
+Il permet de créer son propre graphe d'une part ou d'en importer un afin de faire des modifications dessus ou y appliquer certaines fonctions.
 
 ## Qui sommes nous ?
 Etudiants à l'Epita, nous nous sommes fixés l'objectif de réaliser ce logiciel pour notre quatrième semestre.
@@ -36,18 +35,7 @@ typedef struct graph
 
 Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le projet est disponible sur overleaf
 
-
-# illegal
-***
-(ref assembleur)
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
+## Avancement
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -56,66 +44,4 @@ Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le p
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
-
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

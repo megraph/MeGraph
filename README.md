@@ -37,11 +37,12 @@ Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le p
 
 |Domaine| Complétion|
 |:-------------|:------------------|
-|Interface utilisateur | 30% |
+|Interface utilisateur | 33% |
 |Documentation | 0% |
 |Site Internet | 50% |
 |Algorithmes sur les graphes |33%|
 |Affichage des Graphes  |10%|
 |Structure et Sauvegarde des Donées |50%|
+|Total |30%|
 
 * * *

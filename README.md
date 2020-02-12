@@ -4,15 +4,12 @@
 
 [//]: <> (There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.)
 
-# MeGraph
-Logiciel de traitement de graphes
-
-## Le projet
+# Le projet
 
 Il s'agit d'un logiciel permettant à un utilisateur d'interagir avec n'importe quel graphe. Aussi bien les graphes orientés que les graphes non-orientés.
 Il permet de créer son propre graphe d'une part ou d'en importer un afin de faire des modifications dessus ou y appliquer certaines fonctions.
 
-## Qui sommes nous ?
+# Qui sommes nous ?
 Etudiants à l'Epita, nous nous sommes fixés l'objectif de réaliser ce logiciel pour notre quatrième semestre.
 Le groupe:
 *   Mohamed DIALLO
@@ -20,7 +17,7 @@ Le groupe:
 *   Anthony JABRE
 *   Alexandre JAMES
 
-## La structure de graphes
+# La structure de graphes
 
 ```C
 typedef struct graph
@@ -31,11 +28,11 @@ typedef struct graph
 } Graph;
 ```
 
-## Le cahier des charges
+# Le cahier des charges
 
 Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le projet est disponible sur overleaf
 
-## Avancement
+# Avancement
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|

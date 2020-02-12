@@ -35,7 +35,7 @@ Notre [cahier des charges](https://fr.overleaf.com/gallery "Overleaf") pour le p
 
 # Avancement
 
-|              | Complétion|
+|Domaine| Complétion|
 |:-------------|:------------------|
 |Interface utilisateur | 30% |
 |Documentation | 0% |

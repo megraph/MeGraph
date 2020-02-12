@@ -23,6 +23,7 @@ Le groupe:
 typedef struct graph
 {
     uint32_t    order;
+   	uint32_t	adjlen;
     int         directed;
     List**      adjlists;
 } Graph;
